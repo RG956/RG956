@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RG956
+- 👀 I’m interested in ... learning how to code python 
+- 🌱 I’m currently learning ... how to use python to analyize text and extract data from the internet
